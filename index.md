@@ -45,4 +45,4 @@ The Background color is `#ffffff` for light mode and `#000000` for dark mode.
 `rgb(9, 105, 218)`
 `hsl(212, 92%, 45%)`
 
-`#RRGGBB`
+# Links
