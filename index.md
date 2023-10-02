@@ -38,5 +38,5 @@ git add
 git commit
 ````
 # Supported Color Models
-The Background color is `#ffffff`for light mode and `#000000`for dark mode. 
+The Background color is `#ffffff` for light mode and `#000000` for dark mode. 
 
