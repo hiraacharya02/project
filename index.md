@@ -1,6 +1,4 @@
 
 
-**i am bold**
-_i am itallic_
 
-
+hello my name is hira
