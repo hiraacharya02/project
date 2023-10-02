@@ -14,7 +14,7 @@ _This is itallic text_
 
 **_All this Text is Important_**
 
-This is a <sub>subscript</>text
+This is a <sub>subscript</sub>text
 
 This is a <sup>superscript</sup> text
 
