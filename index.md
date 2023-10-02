@@ -33,7 +33,6 @@ use `git status`to list all new or modified files that haven't yet been committe
 
 Some basic Git Commands are:
 ```
-
 git status
 git add
 git commit
