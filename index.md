@@ -111,7 +111,7 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference
 [^2]: To add line break within a footnote, prefix new lines with 2 spaces
    This is second line.
-   
+
 # Alerts
 > [!Note]
 > Highlights information that users should take into account, even when skimming.
@@ -122,6 +122,14 @@ A footnote can also have multiple lines[^2].
 > [!Warning]
 > Critical content demanding immediate user attention due to potential risks.
 
+# Hiding content with comments
+<!-- This content will not appear in the rendered Markdown -->
 
+# Ignoring Markdown Formatting
 
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+# Disabling Markdown rendering
+
+<>
 
