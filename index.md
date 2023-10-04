@@ -65,9 +65,9 @@ This site was built using [Github Pages](https://pages.github.com/).
 
 # Lists
 
-* George washington
+- George washington
 * John Adams
-* Thomas Jefferson
++ Thomas Jefferson
 
  1. Jammes
  1. Monroe          
