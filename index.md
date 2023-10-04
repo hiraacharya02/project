@@ -110,10 +110,8 @@ A footnote can also have multiple lines[^2].
 
 [^1]: My reference
 [^2]: To add line break within a footnote, prefix new lines with 2 spaces
-
-
-   This is second line
-
+   This is second line.
+   
 # Alerts
 > [!Note]
 > Highlights information that users should take into account, even when skimming.
