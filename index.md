@@ -64,18 +64,10 @@ This site was built using [Github Pages](https://pages.github.com/).
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 
 # Lists
-* Egg
-* Bread
-* Jam
+* George washington
+* John Adams
+* Thomas Jefferson
 
-1. Egg
-1. Bread
-1. Jam
-
-# Nested Lists
-1. Egg
-    * Bread
-           * Jam
-100. Egg
-     * Bread
-           * Jam           
+ 1. Jammes
+ 1. Monroe          
+ 1. Jony
