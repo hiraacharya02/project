@@ -55,4 +55,4 @@ This site was built using [Github Pages](https://pages.github.com/).
 # Relative Links
 
 # Images
-![screenshot of a comment on a github issue showing an image, added in the markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![screenshot of a comment on a github issue showing an image, added in the markdown, of an Octocat smiling and raising a tentacle.] (https://myoctocat.com/assets/images/base-octocat.svg)
