@@ -88,9 +88,7 @@ This site was built using [Github Pages](https://pages.github.com/).
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
 # Mentioning people and team
-
 @github/support what do you think about these updates?
-
 # Referencing issues and pull requests
 
 # Referencing external resources
