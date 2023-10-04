@@ -49,3 +49,5 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 # Links
 This site was built using [Github Pages](https://pages.github.com/).
+
+#Selection Links
