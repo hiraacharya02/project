@@ -97,5 +97,5 @@ This site was built using [Github Pages](https://pages.github.com/).
 # uploading assets
 
 # Using Emoji
-@octocat :+1: This PR looks great -it's ready to merge! :shipit: 
+@octocat :+2: This PR looks great -it's ready to merge! :shipit: 
 
