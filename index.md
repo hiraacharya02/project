@@ -48,3 +48,4 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 `hsl(212, 92%, 45%)`
 
 # Links
+This site was built using [Github Pages](https://pages.github.com/).
