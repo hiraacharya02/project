@@ -100,17 +100,13 @@ This site was built using [Github Pages](https://pages.github.com/).
 @octocat :+1: This PR looks great -it's ready to merge! :shipit: 
 # Paragraph 
 
-
-hello 
 # Footnotes 
 
-Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
+Here is a simple footnote[^1]
+A footnote can also have multiple lines[^2]
 [^1]: My reference
 [^2]: To add line break within a footnote, prefix new lines with 2 spaces
-   This is second line.
+     This is second line.
 
 # Alerts
 > [!Note]
